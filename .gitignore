@@ -1,0 +1,46 @@
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+ENV/
+
+# Configurações locais
+*.env
+*.ini
+*.cfg
+*.local
+
+# Arquivos de log
+*.log
+
+# Banco de dados locais
+*.sqlite3
+*.db
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+
+# Arquivos de testes
+.coverage
+.tox/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db

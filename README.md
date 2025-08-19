@@ -88,6 +88,7 @@ Este programa está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` 
 ## Autor
 
 **Kauã Santos**
+
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
 
 **Contato:**
